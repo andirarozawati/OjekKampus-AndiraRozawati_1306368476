@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=field\ location
+comment0.target=ojek(Field,\ Location)
+comment0.text=\r\n\ Membuat\ objek\ baru\ driver\r\n
+comment1.params=
+comment1.target=void\ listLayanan()
+comment2.params=
+comment2.target=void\ daftarLayanan()
+comment3.params=
+comment3.target=void\ cetakPrint()
+comment4.params=
+comment4.target=void\ pesan()
+comment5.params=newLocation
+comment5.target=void\ setLocation(Location)
+comment5.text=\r\n\ menempatkan\ driver\ di\ suatu\ lokasi\r\n\ \r\n
+comment6.params=
+comment6.target=Field\ getField()
+comment6.text=\r\n\ Mengembalikan\ field\ driver\r\n\ @return\ The\ animal's\ field.\r\n
+comment7.params=
+comment7.target=int\ getMaksWaktu()
+comment8.params=
+comment8.target=void\ mengurangiWaktu()
+comment8.text=\r\n\ Increase\ the\ age.\ This\ could\ result\ in\ the\ animal's\ death.\r\n
+comment9.params=
+comment9.target=void\ setTidakTersedia()
+comment9.text=\r\n\ Driver\ sedang\ tidak\ tersedia\r\n\ It\ is\ removed\ from\ the\ field.\r\n
+numComments=10

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=subject\ usernothandle\ sharedState\ options
+comment0.target=void\ initialize(javax.security.auth.Subject,\ javax.security.auth.callback.CallbackHandler,\ java.util.Map,\ java.util.Map)
+comment0.text=\r\n\ Inisialisasi\ login\ \r\n
+comment1.params=
+comment1.target=boolean\ login()
+comment1.text=\r\n\ Method\ untuk\ proses\ login\ user\r\n\r\n\ \r\n
+comment2.params=
+comment2.target=boolean\ commit()
+comment3.params=
+comment3.target=boolean\ abort()
+comment3.text=\r\n\ Method\ ini\ dipanggil\ apabila\ autentifikasi\ gagal\r\n\r\n
+comment4.params=
+comment4.target=boolean\ logout()
+comment4.text=\r\nMethod\ untuk\ logout\ User\r\n\r\n
+numComments=5

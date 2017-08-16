@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Layanan()
+comment1.params=pid\ pname\ type
+comment1.target=Layanan(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=pid
+comment2.target=void\ setPid(java.lang.String)
+comment3.params=pname
+comment3.target=void\ setPname(java.lang.String)
+comment4.params=
+comment4.target=void\ setType()
+comment5.params=
+comment5.target=java.lang.String\ getPid()
+comment6.params=
+comment6.target=java.lang.String\ getPname()
+comment7.params=
+comment7.target=java.lang.String\ getType()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

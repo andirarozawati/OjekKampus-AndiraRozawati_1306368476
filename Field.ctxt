@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=depth\ width
+comment0.target=Field(int,\ int)
+comment0.text=\r\n\ Constructor\ Field\r\n
+comment1.params=
+comment1.target=void\ clear()
+comment1.text=\r\n\ Menghapus\ isi\ Field\r\n
+comment2.params=location
+comment2.target=void\ clear(Location)
+comment2.text=\r\n\ Menghapus\ Lokasi\r\n\ @param\ location\ untuk\ di\ hapus\r\n
+comment3.params=ojek
+comment3.target=void\ place(java.lang.Object)
+comment3.text=\r\n\ Menempatkan\ Ojek\ dalam\ posisi\ tertentu\r\n\r\n
+comment4.params=
+comment4.target=int\ getDepth()
+comment4.text=\r\n\ Mengembalikan\ Depth\ \r\n\ \r\n
+comment5.params=
+comment5.target=int\ getWidth()
+comment5.text=\r\n\ Mengambalikan\ Lebar\r\n
+numComments=6

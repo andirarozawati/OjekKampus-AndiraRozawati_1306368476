@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=randomAge\ field\ location
+comment0.target=layanBarang(boolean,\ Field,\ Location)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ layanBarang\r\n
+comment1.params=
+comment1.target=int\ getMaksWaktu()
+comment2.params=
+comment2.target=void\ pesan()
+comment3.params=
+comment3.target=void\ cetakPrint()
+comment4.params=
+comment4.target=void\ totalPrice()
+numComments=5
